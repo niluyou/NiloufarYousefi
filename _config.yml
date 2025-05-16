@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Niloufar"
+  name   : "Niloufar Yousefi"
   avatar : "/assets/images/avatar.jpeg"
-  bio    : "PhD Candidate at University of Toronto in Systems Control with an Application to Power Systems"
+  bio    : "PhD Candidate at University of Toronto \\
+  in Systems Control with an Application to Power Systems"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
