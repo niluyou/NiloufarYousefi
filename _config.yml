@@ -63,7 +63,7 @@ author:
   bio    : "PhD Candidate at University of Toronto in Systems Control with an Application to Power Systems"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/niloufaryousefi/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
