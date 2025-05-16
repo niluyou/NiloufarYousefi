@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Niloufar"
-  avatar : "/assets/images/avatar.jpg"
+  avatar : "/assets/images/avatar.jpeg"
   bio    : "PhD Candidate at University of Toronto in Systems Control with an Application to Power Systems"
   links:
     - label: "LinkedIn"
