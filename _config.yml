@@ -59,7 +59,8 @@ plugins:
 author:
   name   : "Niloufar Yousefi"
   avatar : "/assets/images/avatar.jpeg"
-  bio    : "PhD Candidate at University of Toronto"
+  bio    : "PhD Candidate at UofT"
+  Email : "niloufar.yousefi@utoronto.ca"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
