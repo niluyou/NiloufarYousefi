@@ -7,12 +7,12 @@ layout: single
 author_profile: true
 ---
 ### About me
-I am a PhD candidate in the Department of Electrical and Computer Engineering at the University of Toronto under the supervision of [Professor John W. Simpson-Porco](https://www.control.utoronto.ca/~jwsimpson/). Before this, I earned my Master’s degree at Queen’s University (2023) in the [ePOWER](https://www.queensu.ca/epower/) group and completed my undergraduate studies at Isfahan University of Technology (2021), majoring in control systems. My expertise lies in the intricate domains of Control Systems, Power Systems, and Power Electronics.
+I am a PhD candidate in the Department of Electrical and Computer Engineering at the University of Toronto under the supervision of [Professor John W. Simpson-Porco](https://www.control.utoronto.ca/~jwsimpson/). Before this, I earned my Master’s degree at Queen’s University (2023) in the [ePOWER](https://www.queensu.ca/epower/) group and completed my undergraduate studies at Isfahan University of Technology (2021), majoring in control systems. My expertise lies in the intersection of Control Systems, Power Systems, and Power Electronics.
 
 
 ### Updates
 
-- **May 2025**: Presented our poster at MSCT2 025 in Montreal.
+- **May 2025**: Presented our poster at MSCT 2025 in Montreal.
 - **November 2024**: I became a PhD Candidate :partying_face:! 
 - **October 2023**: Our Paper was presented at IECON 2023 in Singapore. 
 - **September 2023**: Began PhD studies at the University of Toronto.  
