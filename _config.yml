@@ -61,6 +61,10 @@ author:
   avatar : "/assets/images/avatar.jpeg"
   bio    : "PhD Candidate at University of Toronto"
   links:
+   links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.ca/citations?user=Mj6tN2EAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/niloufaryousefi/"
@@ -79,6 +83,9 @@ author:
 
 footer:
   links:
+   - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.ca/citations?user=Mj6tN2EAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/niloufaryousefi/"
