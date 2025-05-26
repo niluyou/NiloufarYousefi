@@ -1,5 +1,9 @@
 main:
-  - title: "Publications"
-    url: /publications/
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "PhD Journey"
+    url: /Journey/
+
+
