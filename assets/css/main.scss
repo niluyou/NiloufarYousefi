@@ -19,48 +19,57 @@ a {
   }
 }
 
-// 🔧 Force avatar image to be larger and circular
-.sidebar .author__avatar,
-.page__sidebar .author__avatar {
-  width: 180px !important;
-  height: 180px !important;
-  margin: 0 auto 1.5rem auto !important;
-  display: block !important;
+// Custom sidebar width override
+.sidebar {
+  width: 300px !important; // Adjust to your preferred smaller width
 }
 
-.sidebar .author__avatar img,
-.page__sidebar .author__avatar img {
-  width: 180px !important;
-  height: 180px !important;
-  border-radius: 50% !important;
-  object-fit: cover !important;
-  max-width: none !important;
-  max-height: none !important;
-  display: block !important;
+.wrap {
+  margin-left: 300px !important; // Matches the sidebar width
 }
 
-// Center the text and links under the avatar
-.sidebar .author__content,
-.page__sidebar .author__content {
-  text-align: center !important;
-}
+// // 🔧 Force avatar image to be larger and circular
+// .sidebar .author__avatar,
+// .page__sidebar .author__avatar {
+//   width: 180px !important;
+//   height: 180px !important;
+//   margin: 0 auto 1.5rem auto !important;
+//   display: block !important;
+// }
 
-.sidebar .author__bio,
-.page__sidebar .author__bio {
-  text-align: center !important;
-}
+// .sidebar .author__avatar img,
+// .page__sidebar .author__avatar img {
+//   width: 180px !important;
+//   height: 180px !important;
+//   border-radius: 50% !important;
+//   object-fit: cover !important;
+//   max-width: none !important;
+//   max-height: none !important;
+//   display: block !important;
+// }
 
-.sidebar .author__links,
-.page__sidebar .author__links {
-  justify-content: center !important;
-}
+// // Center the text and links under the avatar
+// .sidebar .author__content,
+// .page__sidebar .author__content {
+//   text-align: center !important;
+// }
+
+// .sidebar .author__bio,
+// .page__sidebar .author__bio {
+//   text-align: center !important;
+// }
+
+// .sidebar .author__links,
+// .page__sidebar .author__links {
+//   justify-content: center !important;
+// }
 
 
-// 🔧 Apply 0.5cm indent to sidebar social links (icons + labels)
-.sidebar .author__urls li,
-.page__sidebar .author__urls li {
-  padding-left: 2.1cm !important;
-}
+// // 🔧 Apply 0.5cm indent to sidebar social links (icons + labels)
+// .sidebar .author__urls li,
+// .page__sidebar .author__urls li {
+//   padding-left: 2.1cm !important;
+// }
 
 // 🔠 Enlarge site title in the top navigation bar
 .site-title {
