@@ -7,7 +7,7 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 # Education
 ---
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/assets/images/utoronto.png" alt="University of Toronto" style="width: 80px; margin-right: 15px;">
+  <img src="{{ site.baseurl }}/assets/images/utoronto.png" alt="University of Toronto" style="width: 80px; margin-right: 15px;">
   <div>
     <strong style="color: #904a1b; font-size: 1.2em;">
       <a href="https://www.utoronto.ca/" target="_blank" style="color: #904a1b; text-decoration: none;">
@@ -20,7 +20,7 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/assets/images/queens.png" alt="Queen's University" style="width: 80px; margin-right: 15px;">
+  <img src="{{ site.baseurl }}/assets/images/queens.png" alt="Queen's University" style="width: 80px; margin-right: 15px;">
   <div>
     <strong style="color: #904a1b; font-size: 1.2em;">
       <a href="https://www.queensu.ca/" target="_blank" style="color: #904a1b; text-decoration: none;">
@@ -33,7 +33,7 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="/assets/images/IUT.png" alt="Isfahan University of Technology" style="width: 80px; margin-right: 15px;">
+  <img src="{{ site.baseurl }}/assets/images/IUT.png" alt="Isfahan University of Technology" style="width: 80px; margin-right: 15px;">
   <div>
     <strong style="color: #904a1b; font-size: 1.2em;">
       <a href="https://www.iut.ac.ir/en" target="_blank" style="color: #904a1b; text-decoration: none;">
