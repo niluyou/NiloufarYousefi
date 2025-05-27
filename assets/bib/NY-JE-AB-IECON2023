@@ -1,0 +1,10 @@
+@INPROCEEDINGS{NY-JE-AB-IECON2023,
+  author={Yousefi, Niloufar and Ebrahimi, Javad and Bakhshai, Alireza},
+  booktitle={IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society}, 
+  title={Auto-Tuned Model Predictive Control-Based Neural Network Controller for Modular Multilevel Converters}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={01-06},
+  keywords={Training;Multilevel converters;Scalability;Neural networks;Mathematical models;Steady-state;Topology;Modular Multilevel Converter;Model Predictive Control (MPC);Neural Networks (NN);Artificial Intelligence(AI)},
+  doi={10.1109/IECON51785.2023.10312231}}

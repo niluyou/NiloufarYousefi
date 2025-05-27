@@ -1,0 +1,10 @@
+@INPROCEEDINGS{NY-JE-AB-EPE2023,
+  author={Yousefi, Niloufar and Ebrahimi, Javad and Bakhshai, Alireza},
+  booktitle={2023 25th European Conference on Power Electronics and Applications (EPE'23 ECCE Europe)}, 
+  title={Neural Network Controller Based on Direct and Indirect Model Predictive for Modular Multilevel Converters}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Training;Multilevel converters;Simulation;Neural networks;Europe;Predictive models;Prediction algorithms;Modular Multilevel Converter;Model Predictive Control;Artificial Intelligence;Neural Networks;Machine Learning},
+  doi={10.23919/EPE23ECCEEurope58414.2023.10264657}}

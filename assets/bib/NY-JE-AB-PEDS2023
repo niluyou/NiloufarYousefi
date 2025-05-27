@@ -1,0 +1,10 @@
+@INPROCEEDINGS{NY-JE-AB-PEDS2023,
+  author={Yousefi, Niloufar and Ebrahimi, Javad and Bakhshai, Alireza},
+  booktitle={2023 IEEE 14th International Conference on Power Electronics and Drive Systems (PEDS)}, 
+  title={Artificial Intelligence Applications in the Control and Performance Improvement of Modular Multilevel Converters: A Review}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Multilevel converters;Electric potential;Capacitors;Reliability engineering;Power electronics;Topology;Artificial intelligence},
+  doi={10.1109/PEDS57185.2023.10246700}}
