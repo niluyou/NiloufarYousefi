@@ -14,6 +14,7 @@ Find my CV <a href="assets/CV-2025 Github.pdf" target="_blank">here</a>.
 
 ## Updates
 - **May 2025**: Presented our poster at [MSCT 2025](https://symposia.gerad.ca/MSCT2025/en) in Montreal.[[Poster]]({{ site.baseurl }}/assets/files/MSCT_Poster.pdf)
+- **July 2024** Served as a student volunteer and attended ACC 2024 in Toronto
 - **November 2024**: I became a PhD Candidate :partying_face:! 
 - **May 2024**: Passed department qualifying exam. 
 - **October 2023**: Our Paper was presented at IECON 2023 in Singapore. 
