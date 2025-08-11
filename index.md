@@ -13,6 +13,7 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 Find my CV <a href="assets/CV-2025 Github.pdf" target="_blank">here</a>.
 
 ## Updates
+- **July 2025** Attended [LORER Summer School 2025](https://symposia.gerad.ca/LORER-SummerSchool-2025/en/home) in Montreal and won best paper presentation. :partying_face:! [[Poster]]({{ site.baseurl }}/assets/files/Niloufar Yousefi_LORER_Poster.pdf)
 - **May 2025**: Presented our poster at [MSCT 2025](https://symposia.gerad.ca/MSCT2025/en) in Montreal.[[Poster]]({{ site.baseurl }}/assets/files/MSCT_Poster.pdf)
 - **November 2024**: I became a PhD Candidate :partying_face:!
 -  **July 2024** Served as a student volunteer and attended [ACC 2024](https://acc2024.a2c2.org/) in Toronto.
