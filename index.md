@@ -13,6 +13,9 @@ I am a PhD candidate in the Department of Electrical and Computer Engineering at
 Find my CV <a href="assets/CV-2025 Github.pdf" target="_blank">here</a>.
 
 ## Updates
+- **February 2026:** New submission [Performance Enhancement of Primal-Dual
+Feedback-Based Optimization using
+Estimators]({{ site.baseurl }}/assets/files/MTNS_2026.pdf) to MTNS 2026.
 - **November 2025:** New submission on [estimator-enhanced feedback-based optimization]({{ site.baseurl }}/assets/files/Estimator_Enhanced_FBO.pdf) to ECC 2026.
 - **July 2025:** Attended [LORER Summer School 2025](https://symposia.gerad.ca/LORER-SummerSchool-2025/en/home) in Montreal and won the best paper presentation. [[Poster]]({{ site.baseurl }}/assets/files/Niloufar Yousefi_LORER_Poster.pdf)
 - **May 2025**: Presented our poster at [MSCT 2025](https://symposia.gerad.ca/MSCT2025/en) in Montreal.[[Poster]]({{ site.baseurl }}/assets/files/MSCT_Poster.pdf)
